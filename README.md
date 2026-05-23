@@ -9,10 +9,12 @@ Qinthafa Treza Aimar (124140155)
 Govin Kurniawansyah (124140025)
 
 Daftar Bot :
-Yujin
 
-AllMight
+Yujin : Bot yang akan mengunci satu target dan akan menembak sambil melakukan strafe
 
-Deku
+AllMight : Bot yang mencari target terdekat
 
-Bakugo
+Deku : Bot yang fokus dalam pergerakan bebas dan tembakan prediktif
+
+Bakugo : Bot yang akan mengunci target pertama di radar dan akan mendekati musuh sambil menembak
+
